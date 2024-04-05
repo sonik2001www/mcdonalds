@@ -16,7 +16,7 @@ class ProductDetail(generics.RetrieveAPIView):
 
     def get_object(self):
         try:
-            return Product.objects.get(name=self.kwargs["product_name"])
+            return self.queryset.get(name=self.kwargs["product_name"])
         except Product.DoesNotExist:
             raise Http404
 
@@ -30,7 +30,7 @@ class ProductFieldDetail(generics.RetrieveAPIView):
         product_field = self.kwargs["product_field"]
 
         try:
-            product = Product.objects.get(name=product_name)
+            product = self.queryset.get(name=product_name)
             if hasattr(product, product_field):
                 return {product_field: getattr(product, product_field)}
             else:
