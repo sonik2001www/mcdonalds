@@ -1,0 +1,1596 @@
+[
+    {
+        "pk": 1,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "ВОДА ГАЗОВАНА мала",
+            "description": "",
+            "calories": "N/Aккал Калорійність (N/A % Daily Value)",
+            "fats": "N/Aг Жири (N/A % Daily Value)",
+            "carbs": "N/Aг Вуглеводи (N/A % Daily Value)",
+            "proteins": "N/Aг Білки (N/A % Daily Value)",
+            "unsaturated_fats": "N/Aг/g (N/A % DV) N/Aг/g per100g",
+            "sugar": "N/Aг/g (N/A % DV) N/Aг/g per100g",
+            "salt": "N/Aг/g (N/A % DV) N/Aг/g per100g",
+            "portion": "250мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МакТост® із сиром",
+            "description": "Гаряча булочка з двома скибочками сиру “Чеддер”.",
+            "calories": "264ккал Калорійність (13 % Daily Value)",
+            "fats": "10.1г Жири (15 % Daily Value)",
+            "carbs": "33г Вуглеводи (12 % Daily Value)",
+            "proteins": "10.4г Білки (13 % Daily Value)",
+            "unsaturated_fats": "5.2г/g (23 % DV)",
+            "sugar": "5.2г/g (5 % DV)",
+            "salt": "1.6г/g (32 % DV)",
+            "portion": "73г/g"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Морозиво ріжок",
+            "description": "Морозиво, приготоване з добірної молочної суміші, у хрусткому стаканчику.",
+            "calories": "171ккал Калорійність (9 % Daily Value)",
+            "fats": "3.95446153г Жири (6 % Daily Value)",
+            "carbs": "28.9876923г Вуглеводи (11 % Daily Value)",
+            "proteins": "4.42557692г Білки (9 % Daily Value)",
+            "unsaturated_fats": "2.20309615г/g (11 % DV)",
+            "sugar": "22.3421538г/g (25 % DV)",
+            "salt": "0.18940384г/g (3 % DV)",
+            "portion": "95г/g"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава \"Флет Вайт\"",
+            "description": "Флет Вайт – для тих, хто любить насичений кавовий смак подвійного еспресо з додаванням спіненого гарячого молока. Тепер ще більш насичений смак вашої улюбленої кави.",
+            "calories": "65ккал Калорійність (3 % Daily Value)",
+            "fats": "3.5г Жири (5 % Daily Value)",
+            "carbs": "5.2г Вуглеводи (2 % Daily Value)",
+            "proteins": "3.1г Білки (6 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "salt": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "155мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКСАНДІ® Карамель у вафельному стаканчику",
+            "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена карамельною поливою, у вафельному стаканчику.",
+            "calories": "309ккал Калорійність (15 % Daily Value)",
+            "fats": "6.2г Жири (9 % Daily Value)",
+            "carbs": "57.7г Вуглеводи (21 % Daily Value)",
+            "proteins": "4.9г Білки (9 % Daily Value)",
+            "unsaturated_fats": "4.1г/g (20 % DV)",
+            "sugar": "42.5г/g (47 % DV)",
+            "salt": "0.3г/g (5 % DV)",
+            "portion": "138г/g"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кока-Кола® мала",
+            "description": "Всесвітньо відомий освіжаючий напій.",
+            "calories": "102ккал Калорійність (5 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "26г Вуглеводи (10 % Daily Value)",
+            "proteins": "0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "25.5г/g (28 % DV) N/Aг/g per100g",
+            "salt": "0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "250мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Курячі Стріпси, 12 штук",
+            "description": "Смужки білого соковитого курячого філе, що обсмажуються у хрусткій паніровці. Скільки тобі шматочків? Три, щоб з’їсти одному, чи шість для себе і друга або ж дванадцять на велику компанію?",
+            "calories": "800ккал Калорійність (40 % Daily Value)",
+            "fats": "38.6г Жири (55 % Daily Value)",
+            "carbs": "40.3г Вуглеводи (16 % Daily Value)",
+            "proteins": "72.7г Білки (145 % Daily Value)",
+            "unsaturated_fats": "5.9г/g (29 % DV)",
+            "sugar": "4.2г/g (5 % DV)",
+            "salt": "5.5г/g (92 % DV)",
+            "portion": "320г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Картопля Фрі середня",
+            "description": "Добірна картопля, засмажена в натуральній олії і трохи підсолена.",
+            "calories": "330ккал Калорійність (16 % Daily Value)",
+            "fats": "16г Жири (22 % Daily Value)",
+            "carbs": "41г Вуглеводи (16 % Daily Value)",
+            "proteins": "4г Білки (8 % Daily Value)",
+            "unsaturated_fats": "1.49г/g (7 % DV)",
+            "sugar": "0.407г/g (0 % DV)",
+            "salt": "0.53г/g (9 % DV)",
+            "portion": "90г/g"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Спрайт® малий",
+            "description": "Всесвітньо відомий освіжаючий напій.",
+            "calories": "20ккал Калорійність (1 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "5г Вуглеводи (2 % Daily Value)",
+            "proteins": "0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "5г/g (6 % DV)",
+            "salt": "0.075г/g (1 % DV)",
+            "portion": "250мл/ml"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКФЛУРІ® КІТ КАТ Карамель",
+            "description": "Морозиво із карамельною поливою і КітКат.",
+            "calories": "354ккал Калорійність (18 % Daily Value)",
+            "fats": "9г Жири (13 % Daily Value)",
+            "carbs": "60г Вуглеводи (23 % Daily Value)",
+            "proteins": "8.13г Білки (16 % Daily Value)",
+            "unsaturated_fats": "2.02г/g (10 % DV)",
+            "sugar": "37.22г/g (41 % DV)",
+            "salt": "0.13г/g (2 % DV)",
+            "portion": "195г/g"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Сік «Галіція» яблучно-грушевий",
+            "description": "",
+            "calories": "80ккал Калорійність (4 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "19г Вуглеводи (7 % Daily Value)",
+            "proteins": "1.0г Білки (1 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV)",
+            "sugar": "18г/g (19 % DV)",
+            "salt": "1.0г/g (20 % DV)",
+            "portion": "200мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Соус Барбекю",
+            "description": "",
+            "calories": "38ккал Калорійність (2 % Daily Value)",
+            "fats": "0.2г Жири (0 % Daily Value)",
+            "carbs": "8.9г Вуглеводи (3 % Daily Value)",
+            "proteins": "0.2г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "4г/g (0 % DV)",
+            "salt": "0.00г/g (0 % DV)",
+            "portion": "25г/g"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКСАНДІ® Полуниця у вафельному стаканчику",
+            "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена полуничною поливою, у вафельному стаканчику.",
+            "calories": "250ккал Калорійність (12 % Daily Value)",
+            "fats": "4.2г Жири (6 % Daily Value)",
+            "carbs": "47.7г Вуглеводи (18 % Daily Value)",
+            "proteins": "4.3г Білки (8 % Daily Value)",
+            "unsaturated_fats": "2.8г/g (14 % DV)",
+            "sugar": "41.5г/g (46 % DV)",
+            "salt": "0.2г/g (3 % DV)",
+            "portion": "138г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Міні донати з абрикосом",
+            "description": "Джем із соковитими абрикосами і пухке біле тісто, посипане цукровою пудрою.",
+            "calories": "192ккал Калорійність (10 % Daily Value)",
+            "fats": "10.0г Жири (15 % Daily Value)",
+            "carbs": "21.5г Вуглеводи (8 % Daily Value)",
+            "proteins": "2.7г Білки (4 % Daily Value)",
+            "unsaturated_fats": "4.6г/g (23 % DV)",
+            "sugar": "9.5г/g (11 % DV)",
+            "salt": "0.3г/g (6 % DV)",
+            "portion": "50г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Спрайт® середній",
+            "description": "Всесвітньо відомий освіжаючий напій.",
+            "calories": "32ккал Калорійність (2 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "8г Вуглеводи (3 % Daily Value)",
+            "proteins": "0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "8г/g (9 % DV)",
+            "salt": "0.12г/g (2 % DV)",
+            "portion": "400мл/ml"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Чікен МакНагетс® 4шт",
+            "description": "Шматочки ніжного курячого філе, засмажені в хрумкій паніровці.",
+            "calories": "176ккал Калорійність (9 % Daily Value)",
+            "fats": "8.6г Жири (12 % Daily Value)",
+            "carbs": "13г Вуглеводи (5 % Daily Value)",
+            "proteins": "11г Білки (22 % Daily Value)",
+            "unsaturated_fats": "1.0г/g (5 % DV) N/Aг/g per100g",
+            "sugar": "0.5г/g (1 % DV) N/Aг/g per100g",
+            "salt": "0.8г/g (14 % DV) N/Aг/g per100g",
+            "portion": "68г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Фанта® середня",
+            "description": "Всесвітньо відомий освіжаючий напій.",
+            "calories": "126ккал Калорійність (6 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "31.6г Вуглеводи (12 % Daily Value)",
+            "proteins": "0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "31.6г/g (35 % DV)",
+            "salt": "0.14г/g (2 % DV)",
+            "portion": "400мл/ml"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Соус журавлиновий",
+            "description": "",
+            "calories": "44ккал Калорійність (2 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "11г Вуглеводи (4 % Daily Value)",
+            "proteins": "0.0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "10.74г/g (12 % DV)",
+            "salt": "0.00г/g (0 % DV)",
+            "portion": "30г/g"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Сироп «Смажений лісовий горіх»",
+            "description": "Уяви: ти, ранкова кава й тонкий аромат смажених лісових горішків… Смакуй з насолодою!",
+            "calories": "31ккал Калорійність (2 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "7.8г Вуглеводи (3 % Daily Value)",
+            "proteins": "0.0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV)",
+            "sugar": "7.8г/g (9 % DV)",
+            "salt": "0.0г/g (0 % DV)",
+            "portion": "10мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кока-Кола® середня",
+            "description": "Всесвітньо відомий освіжаючий напій.",
+            "calories": "163ккал Калорійність (8 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "41г Вуглеводи (16 % Daily Value)",
+            "proteins": "0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "40.8г/g (45 % DV) N/Aг/g per100g",
+            "salt": "0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "400мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Біг Мак® Меню",
+            "description": "Два біфштекси з натуральної яловичини, цибуля, маринований огірок, сир “Чеддер”, свіжий салат, заправлені спеціальним соусом, у булочці з насінням сезаму.",
+            "calories": "503ккал Калорійність (25 % Daily Value)",
+            "fats": "25г Жири (36 % Daily Value)",
+            "carbs": "42г Вуглеводи (16 % Daily Value)",
+            "proteins": "26г Білки (52 % Daily Value)",
+            "salt": "2.2г/g (37 % DV) N/Aг/g per100g",
+            "portion": "N/Aг/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Дабл Роял Чізбургер",
+            "description": "Два біфштекси з натуральної яловичини в поєднанні з двома слайсами ніжного сиру «Чедер», двома огірочками та свіжою цибулькою, заправлені гірчицею та кетчупом, у булочці з пшеничного борошна.",
+            "calories": "760ккал Калорійність (38 % Daily Value)",
+            "fats": "44г Жири (63 % Daily Value)",
+            "carbs": "38г Вуглеводи (15 % Daily Value)",
+            "proteins": "52г Білки (104 % Daily Value)",
+            "unsaturated_fats": "21г/g (107 % DV)",
+            "sugar": "11г/g (12 % DV)",
+            "salt": "3.0г/g (50 % DV)",
+            "portion": "272г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Картопля Фрі велика",
+            "description": "Добірна картопля, засмажена в натуральній олії і трохи підсолена.",
+            "calories": "434ккал Калорійність (22 % Daily Value)",
+            "fats": "21г Жири (29 % Daily Value)",
+            "carbs": "54г Вуглеводи (21 % Daily Value)",
+            "proteins": "5.2г Білки (10 % Daily Value)",
+            "unsaturated_fats": "1.984г/g (10 % DV)",
+            "sugar": "0.536г/g (1 % DV)",
+            "salt": "0.7г/g (12 % DV)",
+            "portion": "120г/g"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Мокко класік",
+            "description": "Мокко - солодкий кавовий напій із додаванням молока та ніжного какао.",
+            "calories": "165ккал Калорійність (8 % Daily Value)",
+            "fats": "7.0г Жири (10 % Daily Value)",
+            "carbs": "21.2г Вуглеводи (8 % Daily Value)",
+            "proteins": "4.4г Білки (9 % Daily Value)",
+            "unsaturated_fats": "3.3г/g (17 % DV) N/Aг/g per100g",
+            "sugar": "16.7г/g (19 % DV) N/Aг/g per100g",
+            "salt": "0.3г/g (4 % DV) N/Aг/g per100g",
+            "portion": "295мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКШЕЙК® Полуниця",
+            "description": "Чудово збитий коктейль, приготований із добірного молока та полуничного сиропу.",
+            "calories": "415ккал Калорійність (21 % Daily Value)",
+            "fats": "7.6г Жири (11 % Daily Value)",
+            "carbs": "74г Вуглеводи (29 % Daily Value)",
+            "proteins": "11г Білки (22 % Daily Value)",
+            "unsaturated_fats": "1.6г/g (8 % DV)",
+            "sugar": "69г/g (76 % DV)",
+            "salt": "0.32г/g (5 % DV)",
+            "portion": "450мл/ml"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Дабл Чізбургер",
+            "description": "Два біфштекси з натуральної яловичини, два шматочки сиру «Чедер», два мариновані огірки, цибуля, гірчиця, кетчуп, булочка.",
+            "calories": "475ккал Калорійність (24 % Daily Value)",
+            "fats": "27.3г Жири (39 % Daily Value)",
+            "carbs": "31.1г Вуглеводи (12 % Daily Value)",
+            "proteins": "26.5г Білки (53 % Daily Value)",
+            "unsaturated_fats": "12.6г/g (59 % DV)",
+            "sugar": "6.5г/g (7 % DV)",
+            "salt": "2.5г/g (42 % DV)",
+            "portion": "163г/g"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Чікен МакНагетс 6шт",
+            "description": "Апетитні шматочки ніжного курячого філе, засмажені у хрумкій паніровці.",
+            "calories": "265ккал Калорійність (13 % Daily Value)",
+            "fats": "13г Жири (18 % Daily Value)",
+            "carbs": "20г Вуглеводи (8 % Daily Value)",
+            "proteins": "17г Білки (33 % Daily Value)",
+            "unsaturated_fats": "1.6г/g (8 % DV)",
+            "sugar": "0.7г/g (1 % DV)",
+            "salt": "1.2г/g (21 % DV)",
+            "portion": "100г/g"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Чай чорний",
+            "description": "Оригінальний чорний чай.",
+            "calories": "0ккал Калорійність (0 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "0г Вуглеводи (0 % Daily Value)",
+            "proteins": "0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "0г/g (0 % DV)",
+            "salt": "0г/g (0 % DV)",
+            "portion": "300мл/ml"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МакПиріг® Абрикос",
+            "description": "Соковитий джем зі шматочками абрикосів в улюбленому хрусткому пиріжечку.",
+            "calories": "254ккал Калорійність (13 % Daily Value)",
+            "fats": "11.7г Жири (18 % Daily Value)",
+            "carbs": "33г Вуглеводи (12 % Daily Value)",
+            "proteins": "3.0г Білки (4 % Daily Value)",
+            "unsaturated_fats": "3.5г/g (18 % DV)",
+            "sugar": "14.7г/g (16 % DV)",
+            "salt": "0.3г/g (6 % DV)",
+            "portion": "80г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кока-Кола® велика",
+            "description": "Всесвітньо відомий освіжаючий напій.",
+            "calories": "204ккал Калорійність (10 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "51г Вуглеводи (20 % Daily Value)",
+            "proteins": "0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "51г/g (57 % DV) N/Aг/g per100g",
+            "salt": "0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "500мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава \"Американо з молоком\" класік",
+            "description": "Американо з молоком – це еспресо з додаванням гарячої води та молока тому напій має м'якший смак, ніж американо.",
+            "calories": "47ккал Калорійність (2 % Daily Value)",
+            "fats": "2.6г Жири (4 % Daily Value)",
+            "carbs": "3.8г Вуглеводи (1 % Daily Value)",
+            "proteins": "2.3г Білки (5 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "salt": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "275мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Хрусткі курячі крильця 6 шматочків",
+            "description": "Курячі крильця в хрусткому паніруванні",
+            "calories": "541ккал Калорійність (27 % Daily Value)",
+            "fats": "33г Жири (47 % Daily Value)",
+            "carbs": "25г Вуглеводи (10 % Daily Value)",
+            "proteins": "36г Білки (72 % Daily Value)",
+            "unsaturated_fats": "8.8г/g (44 % DV)",
+            "sugar": "25г/g (28 % DV)",
+            "salt": "2.5г/g (42 % DV)",
+            "portion": "190г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Каша вівсяна (без наповнювачів)",
+            "description": "Дбайливо приготовлені, смачні та поживні вівсяни пластівці, стануть чудовим початком вашого ранку.",
+            "calories": "123ккал Калорійність (6 % Daily Value)",
+            "fats": "2г Жири (3 % Daily Value)",
+            "carbs": "22г Вуглеводи (9 % Daily Value)",
+            "proteins": "3.8г Білки (8 % Daily Value)",
+            "unsaturated_fats": "0.48г/g (2 % DV) N/Aг/g per100g",
+            "sugar": "5.2г/g (6 % DV) N/Aг/g per100g",
+            "salt": "0.4г/g (7 % DV) N/Aг/g per100g",
+            "portion": "170г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Філе-о-фіш®",
+            "description": "Ніжне рибне філе із тріскових риб, засмажене у хрумкому паніруванні, півшматочка сиру “Чеддер”, заправлені пікантним соусом, у пухкій булочці з пшеничного борошна.",
+            "calories": "327ккал Калорійність (16 % Daily Value)",
+            "fats": "14г Жири (20 % Daily Value)",
+            "carbs": "35г Вуглеводи (13 % Daily Value)",
+            "proteins": "15г Білки (30 % Daily Value)",
+            "unsaturated_fats": "2.7г/g (13 % DV)",
+            "sugar": "5.5г/g (6 % DV)",
+            "salt": "1.4г/g (23 % DV)",
+            "portion": "130г/g"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Фанта® мала",
+            "description": "Всесвітньо відомий освіжаючий напій.",
+            "calories": "79ккал Калорійність (4 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "19.75г Вуглеводи (8 % Daily Value)",
+            "proteins": "0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "19.75г/g (22 % DV)",
+            "salt": "0.09г/g (2 % DV)",
+            "portion": "250мл/ml"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Курячі Стріпси, 6 штук",
+            "description": "Смужки білого соковитого курячого філе, що обсмажуються у хрусткій паніровці. Скільки тобі шматочків? Три, щоб з’їсти одному, чи шість для себе і друга або ж дванадцять на велику компанію?",
+            "calories": "400ккал Калорійність (20 % Daily Value)",
+            "fats": "19.3г Жири (28 % Daily Value)",
+            "carbs": "20.2г Вуглеводи (8 % Daily Value)",
+            "proteins": "36.3г Білки (73 % Daily Value)",
+            "unsaturated_fats": "2.9г/g (15 % DV)",
+            "sugar": "2.1г/g (2 % DV)",
+            "salt": "2.7г/g (45 % DV)",
+            "portion": "160г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Соус Гірчичний",
+            "description": "",
+            "calories": "55ккал Калорійність (3 % Daily Value)",
+            "fats": "3г Жири (4 % Daily Value)",
+            "carbs": "6.4г Вуглеводи (2 % Daily Value)",
+            "proteins": "0.5г Білки (1 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "3г/g (0 % DV)",
+            "salt": "0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "25г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Чікен МакНагетс 20 шт",
+            "description": "Апетитні шматочки ніжного курячого філе, засмажені у хрумкій паніровці.",
+            "calories": "882ккал Калорійність (44 % Daily Value)",
+            "fats": "43г Жири (61 % Daily Value)",
+            "carbs": "67г Вуглеводи (26 % Daily Value)",
+            "proteins": "55г Білки (110 % Daily Value)",
+            "unsaturated_fats": "5.2г/g (26 % DV) N/Aг/g per100g",
+            "sugar": "2.4г/g (3 % DV) N/Aг/g per100g",
+            "salt": "4.1г/g (68 % DV) N/Aг/g per100g",
+            "portion": "340г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКСАНДІ® Карамель у пластиковому стаканчику",
+            "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена карамельною поливою.",
+            "calories": "286ккал Калорійність (14 % Daily Value)",
+            "fats": "6.1г Жири (9 % Daily Value)",
+            "carbs": "53г Вуглеводи (20 % Daily Value)",
+            "proteins": "4.7г Білки (9 % Daily Value)",
+            "unsaturated_fats": "4.1г/g (20 % DV)",
+            "sugar": "38г/g (42 % DV)",
+            "salt": "0.28г/g (5 % DV)",
+            "portion": "138г/g"
+        }
+    },
+    {
+        "pk": 40,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКШЕЙК® Шоколад",
+            "description": "Чудово збитий коктейль, приготований із добірного молока та шоколадного сиропу.",
+            "calories": "413ккал Калорійність (21 % Daily Value)",
+            "fats": "8.6г Жири (12 % Daily Value)",
+            "carbs": "71г Вуглеводи (27 % Daily Value)",
+            "proteins": "12г Білки (24 % Daily Value)",
+            "unsaturated_fats": "2.2г/g (11 % DV)",
+            "sugar": "65г/g (72 % DV)",
+            "salt": "0.37г/g (6 % DV)",
+            "portion": "450мл/ml"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Біг Тейсті®",
+            "description": "Натуральна яловичина у поєднанні зі свіжими овочами та плавленим сиром “Емменталь”.",
+            "calories": "790ккал Калорійність (40 % Daily Value)",
+            "fats": "49.5г Жири (71 % Daily Value)",
+            "carbs": "49.1г Вуглеводи (19 % Daily Value)",
+            "proteins": "37.2г Білки (74 % Daily Value)",
+            "unsaturated_fats": "18.7г/g (86 % DV)",
+            "sugar": "10.2г/g (11 % DV)",
+            "salt": "3.0г/g (50 % DV)",
+            "portion": "318г/g"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Сироп «Ірландський крем»",
+            "description": "Ніжний сироп «Ірландський крем» — ідеальний до твоєї кави.",
+            "calories": "32ккал Калорійність (2 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "8.0г Вуглеводи (3 % Daily Value)",
+            "proteins": "0.0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV)",
+            "sugar": "8.0г/g (9 % DV)",
+            "salt": "0.0г/g (0 % DV)",
+            "portion": "10мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Сир Камамбер",
+            "description": "Сир у хрусткому паніруванні у поєднанні з соусом із журавлини (4 шматочки).",
+            "calories": "313ккал Калорійність (16 % Daily Value)",
+            "fats": "17.014г Жири (24 % Daily Value)",
+            "carbs": "18.988г Вуглеводи (7 % Daily Value)",
+            "proteins": "14.006г Білки (28 % Daily Value)",
+            "unsaturated_fats": "8.648г/g (43 % DV)",
+            "sugar": "0.752г/g (1 % DV)",
+            "salt": "1.504г/g (25 % DV)",
+            "portion": "74г/g"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Круасан з крем-какао",
+            "description": "Запашний круасан із хрусткою золотою скоринкою та ніжним какао-кремом.",
+            "calories": "295ккал Калорійність (15 % Daily Value)",
+            "fats": "18г Жири (26 % Daily Value)",
+            "carbs": "28г Вуглеводи (11 % Daily Value)",
+            "proteins": "4.4925г Білки (9 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "4.425г/g (5 % DV)",
+            "salt": "0.45г/g (8 % DV)",
+            "portion": "65г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава \"Лате\" маленька",
+            "description": "Лате – кавовий напій, який містить молоко. Особливістю цієї кави є те, що, на відміну від капучино, у лате молока значно більше.",
+            "calories": "82ккал Калорійність (4 % Daily Value)",
+            "fats": "4.5г Жири (6 % Daily Value)",
+            "carbs": "6.6г Вуглеводи (3 % Daily Value)",
+            "proteins": "3.9г Білки (8 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV)",
+            "sugar": "0.0г/g (0 % DV)",
+            "salt": "0.0г/g (0 % DV)",
+            "portion": "195мл/ml"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МакЧікен",
+            "description": "Класичний смак, простий вибір. Хрустка куряча котлета із соковитим салатом і ніжним соусом. Ну як тут відмовитись?!",
+            "calories": "448ккал Калорійність (22 % Daily Value)",
+            "fats": "18г Жири (26 % Daily Value)",
+            "carbs": "49.4г Вуглеводи (19 % Daily Value)",
+            "proteins": "22.3г Білки (45 % Daily Value)",
+            "unsaturated_fats": "1.9г/g (9 % DV)",
+            "sugar": "5.3г/g (5 % DV)",
+            "salt": "2.2г/g (37 % DV)",
+            "portion": "180г/g"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кетчуп",
+            "description": "",
+            "calories": "29ккал Калорійність (1 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "6.7г Вуглеводи (3 % Daily Value)",
+            "proteins": "0.4г Білки (1 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "5.18г/g (6 % DV) N/Aг/g per100g",
+            "salt": "0.73г/g (12 % DV)",
+            "portion": "28г/g"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Гамбургер",
+            "description": "Біфштекс із натуральної яловичини, цибуля,\r\nшматочок маринованого огірка, заправлені\r\nгірчицею і кетчупом, у запашній булочці з\r\nпшеничного борошна.",
+            "calories": "249ккал Калорійність (12 % Daily Value)",
+            "fats": "8.7г Жири (12 % Daily Value)",
+            "carbs": "29г Вуглеводи (11 % Daily Value)",
+            "proteins": "13г Білки (26 % Daily Value)",
+            "unsaturated_fats": "3.5г/g (17 % DV)",
+            "sugar": "7.2г/g (8 % DV)",
+            "salt": "1.1г/g (18 % DV)",
+            "portion": "96г/g"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "ВОДА НЕГАЗОВАНА мала",
+            "description": "",
+            "calories": "N/Aккал Калорійність (N/A % Daily Value)",
+            "fats": "N/Aг Жири (N/A % Daily Value)",
+            "carbs": "N/Aг Вуглеводи (N/A % Daily Value)",
+            "proteins": "N/Aг Білки (N/A % Daily Value)",
+            "unsaturated_fats": "N/Aг/g (N/A % DV) N/Aг/g per100g",
+            "sugar": "N/Aг/g (N/A % DV) N/Aг/g per100g",
+            "salt": "N/Aг/g (N/A % DV) N/Aг/g per100g",
+            "portion": "250г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава \"Капучино\" класік",
+            "description": "Капучино – це мікс еспресо та гарячого молока у рівних пропорціях. Особливістю цієї кави є смачна молочна пінка, яка утворюється завдяки поєднанню пари та молока.",
+            "calories": "130ккал Калорійність (6 % Daily Value)",
+            "fats": "7.0г Жири (10 % Daily Value)",
+            "carbs": "10.4г Вуглеводи (4 % Daily Value)",
+            "proteins": "6.2г Білки (12 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "salt": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "245мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 51,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Спрайт® великий",
+            "description": "Всесвітньо відомий освіжаючий напій.",
+            "calories": "40ккал Калорійність (2 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "10г Вуглеводи (4 % Daily Value)",
+            "proteins": "0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "10г/g (11 % DV)",
+            "salt": "0.15г/g (3 % DV)",
+            "portion": "500мл/ml"
+        }
+    },
+    {
+        "pk": 52,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКСАНДІ® Полуниця у пластиковому стаканчику",
+            "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена полуничною поливою.",
+            "calories": "227ккал Калорійність (11 % Daily Value)",
+            "fats": "4.1г Жири (6 % Daily Value)",
+            "carbs": "43г Вуглеводи (17 % Daily Value)",
+            "proteins": "4.1г Білки (8 % Daily Value)",
+            "unsaturated_fats": "2.8г/g (14 % DV)",
+            "sugar": "37г/g (41 % DV)",
+            "salt": "0.16г/g (3 % DV)",
+            "portion": "138г/g"
+        }
+    },
+    {
+        "pk": 53,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКСАНДІ® Шоколад у пластиковому стаканчику",
+            "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена шоколадною поливою.",
+            "calories": "278ккал Калорійність (14 % Daily Value)",
+            "fats": "8.2г Жири (12 % Daily Value)",
+            "carbs": "45г Вуглеводи (17 % Daily Value)",
+            "proteins": "5.5г Білки (11 % Daily Value)",
+            "unsaturated_fats": "6.4г/g (32 % DV)",
+            "sugar": "42г/g (46 % DV)",
+            "salt": "0.38г/g (6 % DV)",
+            "portion": "138г/g"
+        }
+    },
+    {
+        "pk": 54,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава \"Американо\" маленька",
+            "description": "Американо – це еспресо з додаванням гарячої води і тому напій має аналогічні характеристики.",
+            "calories": "0.0ккал Калорійність (0 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "0.0г Вуглеводи (0 % Daily Value)",
+            "proteins": "0.0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV)",
+            "sugar": "0.0г/g (0 % DV)",
+            "salt": "0.0г/g (0 % DV)",
+            "portion": "150мл/ml"
+        }
+    },
+    {
+        "pk": 55,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава \"Лате\" класік",
+            "description": "Лате – кавовий напій, який містить молоко. Особливістю цієї кави є те, що, на відміну від капучино, у лате молока значно більше.",
+            "calories": "130ккал Калорійність (6 % Daily Value)",
+            "fats": "7.0г Жири (10 % Daily Value)",
+            "carbs": "10.4г Вуглеводи (4 % Daily Value)",
+            "proteins": "6.2г Білки (12 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "0.0г/g (0 % DV)",
+            "salt": "0.0г/g (0 % DV)",
+            "portion": "295мл/ml"
+        }
+    },
+    {
+        "pk": 56,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Стріпси Чікен Бокс",
+            "description": "Мікс Бокс для невеличкої компанії друзів. Адже всередині знайдеш дев’ять золотавих Чікен МакНагетс® та шість стріпсів із курячого філе.",
+            "calories": "831ккал Калорійність (42 % Daily Value)",
+            "fats": "39.2г Жири (56 % Daily Value)",
+            "carbs": "55.1г Вуглеводи (21 % Daily Value)",
+            "proteins": "64.5г Білки (129 % Daily Value)",
+            "unsaturated_fats": "5.3г/g (27 % DV)",
+            "sugar": "3.4г/g (4 % DV)",
+            "salt": "4.9г/g (82 % DV)",
+            "portion": "330г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 57,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Курячі Стріпси, 3 штуки",
+            "description": "Смужки білого соковитого курячого філе, що обсмажуються у хрусткій паніровці. Скільки тобі шматочків? Три, щоб з’їсти одному, чи шість для себе і друга або ж дванадцять на велику компанію?",
+            "calories": "200ккал Калорійність (10 % Daily Value)",
+            "fats": "9.7г Жири (14 % Daily Value)",
+            "carbs": "10.1г Вуглеводи (4 % Daily Value)",
+            "proteins": "18.2г Білки (36 % Daily Value)",
+            "unsaturated_fats": "1.5г/g (7 % DV)",
+            "sugar": "1.1г/g (1 % DV)",
+            "salt": "1.4г/g (23 % DV)",
+            "portion": "80г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 58,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКФЛУРІ® КІТ КАТ Шоколад",
+            "description": "Морозиво із шоколадною поливою і КітКат.",
+            "calories": "331ккал Калорійність (17 % Daily Value)",
+            "fats": "7.93г Жири (11 % Daily Value)",
+            "carbs": "56г Вуглеводи (22 % Daily Value)",
+            "proteins": "8.49г Білки (17 % Daily Value)",
+            "unsaturated_fats": "1.14г/g (6 % DV)",
+            "sugar": "25.52г/g (28 % DV)",
+            "salt": "0.01г/g (0 % DV)",
+            "portion": "195г/g"
+        }
+    },
+    {
+        "pk": 59,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "ВОДА ГАЗОВАНА велика",
+            "description": "",
+            "calories": "N/Aккал Калорійність (N/A % Daily Value)",
+            "fats": "N/Aг Жири (N/A % Daily Value)",
+            "carbs": "N/Aг Вуглеводи (N/A % Daily Value)",
+            "proteins": "N/Aг Білки (N/A % Daily Value)",
+            "unsaturated_fats": "N/Aг/g (N/A % DV) N/Aг/g per100g",
+            "sugar": "N/Aг/g (N/A % DV) N/Aг/g per100g",
+            "salt": "N/Aг/g (N/A % DV) N/Aг/g per100g",
+            "portion": "500мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 60,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Картопляні Діпи",
+            "description": "Апетитні скибочки добірної картоплі, засмажені в натуральній олії і трохи підсолені.",
+            "calories": "232ккал Калорійність (12 % Daily Value)",
+            "fats": "5.7г Жири (9 % Daily Value)",
+            "carbs": "40.1г Вуглеводи (15 % Daily Value)",
+            "proteins": "3.3г Білки (4 % Daily Value)",
+            "unsaturated_fats": "0.6г/g (5 % DV)",
+            "sugar": "0.3г/g (0 % DV)",
+            "salt": "0.7г/g (14 % DV)",
+            "portion": "150г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 61,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Сироп Амарето",
+            "description": "Настояний на абрикосових кісточках, сироп Амарето стане найкращим доповненням до улюбленої кави.",
+            "calories": "30ккал Калорійність (2 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "7.0г Вуглеводи (3 % Daily Value)",
+            "proteins": "0.0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV)",
+            "sugar": "6.8г/g (7 % DV)",
+            "salt": "0.0г/g (0 % DV)",
+            "portion": "10мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 62,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава \"Капучино\" маленька",
+            "description": "Капучино – це мікс еспресо та гарячого молока у рівних пропорціях. Особливістю цієї кави є смачна молочна пінка, яка утворюється завдяки поєднанню пари та молока.",
+            "calories": "71ккал Калорійність (4 % Daily Value)",
+            "fats": "3.8г Жири (5 % Daily Value)",
+            "carbs": "5.7г Вуглеводи (2 % Daily Value)",
+            "proteins": "3.4г Білки (7 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "0.0г/g (0 % DV)",
+            "salt": "0.0г/g (0 % DV)",
+            "portion": "175мл/ml"
+        }
+    },
+    {
+        "pk": 63,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКФЛУРІ® КІТ КАТ Полуниця",
+            "description": "Морозиво із полуничною поливою і КітКат.",
+            "calories": "318ккал Калорійність (16 % Daily Value)",
+            "fats": "7.71г Жири (11 % Daily Value)",
+            "carbs": "54г Вуглеводи (21 % Daily Value)",
+            "proteins": "7.71г Білки (15 % Daily Value)",
+            "unsaturated_fats": "1.14г/g (6 % DV)",
+            "sugar": "39.68г/g (44 % DV)",
+            "salt": "0.01г/g (0 % DV)",
+            "portion": "195г/g"
+        }
+    },
+    {
+        "pk": 64,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Чікен МакНагетс 9шт",
+            "description": "Апетитні шматочки ніжного курячого філе, засмажені у хрумкій паніровці.",
+            "calories": "397ккал Калорійність (20 % Daily Value)",
+            "fats": "19г Жири (28 % Daily Value)",
+            "carbs": "30г Вуглеводи (12 % Daily Value)",
+            "proteins": "25г Білки (50 % Daily Value)",
+            "unsaturated_fats": "2.4г/g (12 % DV)",
+            "sugar": "1.1г/g (1 % DV)",
+            "salt": "1.8г/g (31 % DV)",
+            "portion": "150г/g"
+        }
+    },
+    {
+        "pk": 65,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Чай зелений з цитрусовими",
+            "description": "Оригінальний зелений чай.",
+            "calories": "0ккал Калорійність (0 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "0.0г Вуглеводи (0 % Daily Value)",
+            "proteins": "0.0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "0г/g (0 % DV)",
+            "salt": "0.00г/g (0 % DV)",
+            "portion": "300мл/ml"
+        }
+    },
+    {
+        "pk": 66,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Роял Чізбургер",
+            "description": "Біфштекс із натуральної яловичини, два слайси сиру «Чедер», два шматочки маринованого огірка та свіжа цибуля, заправлені гірчицею та кетчупом, у булочці з пшеничного борошна.",
+            "calories": "530ккал Калорійність (27 % Daily Value)",
+            "fats": "27г Жири (39 % Daily Value)",
+            "carbs": "38г Вуглеводи (15 % Daily Value)",
+            "proteins": "32г Білки (64 % Daily Value)",
+            "unsaturated_fats": "14г/g (68 % DV)",
+            "sugar": "11г/g (12 % DV)",
+            "salt": "2.6г/g (43 % DV)",
+            "portion": "194г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 67,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКСАНДІ® Шоколад у вафельному стаканчику",
+            "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена шоколадною поливою, у вафельному стаканчику.",
+            "calories": "301ккал Калорійність (15 % Daily Value)",
+            "fats": "8.3г Жири (12 % Daily Value)",
+            "carbs": "49.7г Вуглеводи (18 % Daily Value)",
+            "proteins": "5.7г Білки (11 % Daily Value)",
+            "unsaturated_fats": "6.4г/g (32 % DV)",
+            "sugar": "46.5г/g (51 % DV)",
+            "salt": "0.4г/g (6 % DV)",
+            "portion": "138г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 68,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава подвійне еспресо",
+            "description": "Подвійне еспресо – дуже міцна кава без молока в маленьких порціях. Подвійне еспресо має густу однорідну «живу» пінку світло-горіхового кольору з «тигровими» розводами, яка відновлюється після розмішування напою.",
+            "calories": "0.0ккал Калорійність (0 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "0.0г Вуглеводи (0 % Daily Value)",
+            "proteins": "0.0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "salt": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "60мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 69,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Хрусткі курячі крильця 4 шматочки",
+            "description": "Курячі крильця в хрусткому паніруванні",
+            "calories": "361ккал Калорійність (18 % Daily Value)",
+            "fats": "22г Жири (31 % Daily Value)",
+            "carbs": "17г Вуглеводи (7 % Daily Value)",
+            "proteins": "24г Білки (48 % Daily Value)",
+            "unsaturated_fats": "5.9г/g (29 % DV)",
+            "sugar": "17г/g (18 % DV)",
+            "salt": "1.7г/g (28 % DV)",
+            "portion": "130г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 70,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МАКШЕЙК® Ваніль",
+            "description": "Чудово збитий коктейль, приготований із добірного молока та ванільного сиропу.",
+            "calories": "408ккал Калорійність (20 % Daily Value)",
+            "fats": "7.5г Жири (11 % Daily Value)",
+            "carbs": "73г Вуглеводи (28 % Daily Value)",
+            "proteins": "11г Білки (22 % Daily Value)",
+            "unsaturated_fats": "1.6г/g (8 % DV)",
+            "sugar": "68г/g (75 % DV)",
+            "salt": "0.32г/g (5 % DV)",
+            "portion": "450мл/ml"
+        }
+    },
+    {
+        "pk": 71,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Майонез",
+            "description": "",
+            "calories": "119ккал Калорійність (6 % Daily Value)",
+            "fats": "13г Жири (18 % Daily Value)",
+            "carbs": "1.2г Вуглеводи (0 % Daily Value)",
+            "proteins": "0.1г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0.525г/g (3 % DV) N/Aг/g per100g",
+            "sugar": "1г/g (1 % DV) N/Aг/g per100g",
+            "salt": "0.31г/g (5 % DV)",
+            "portion": "25г/g"
+        }
+    },
+    {
+        "pk": 72,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Мікс Чікен Бокс",
+            "description": "Якщо ти любиш курочку, цей Чікен Мікс Бокс саме для тебе. Три ніжні стріпси з білого м’яса курочки, шість улюблених соковитих Чікен МакНагетс® та 4 хрусткі курячі крильця, яким так пасує соус. Замовляй — і можеш навіть ні з ким не ділитися. Коли смачно — кожен за себе.\n\r\n3 шт. курячих стріпсів, 4 шт. курячих крилець, 6 шт. Чікен МакНагетс",
+            "calories": "848ккал Калорійність (42 % Daily Value)",
+            "fats": "45г Жири (64 % Daily Value)",
+            "carbs": "50г Вуглеводи (19 % Daily Value)",
+            "proteins": "60.9г Білки (122 % Daily Value)",
+            "unsaturated_fats": "8.9г/g (45 % DV)",
+            "sugar": "18.5г/g (21 % DV)",
+            "salt": "4.5г/g (75 % DV)",
+            "portion": "330г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 73,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Чізбургер",
+            "description": "Біфштекс із натуральної яловичини, шматочок сиру “Чеддер”, шматочок маринованого огірка та цибуля, заправлені гірчицею і кетчупом, у булочці з пшеничного борошна.",
+            "calories": "298ккал Калорійність (15 % Daily Value)",
+            "fats": "13г Жири (19 % Daily Value)",
+            "carbs": "29г Вуглеводи (11 % Daily Value)",
+            "proteins": "16г Білки (32 % Daily Value)",
+            "unsaturated_fats": "6.1г/g (31 % DV)",
+            "sugar": "7.6г/g (8 % DV)",
+            "salt": "1.6г/g (27 % DV)",
+            "portion": "108г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 74,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Соус Хабанеро",
+            "description": "Пікантний перець Хабанеро, солодка паприка й прянощі. Спробуй із курячими крильцями, стріпсами, Картоплею Фрі або Чікен МакНагетс®!",
+            "calories": "120ккал Калорійність (6 % Daily Value)",
+            "fats": "12.4г Жири (18 % Daily Value)",
+            "carbs": "3.4г Вуглеводи (1 % Daily Value)",
+            "proteins": "0.3г Білки (0 % Daily Value)",
+            "unsaturated_fats": "1.4г/g (5 % DV)",
+            "sugar": "1.7г/g (2 % DV)",
+            "salt": "0.18г/g (16 % DV)",
+            "portion": "40г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 75,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Чізбургер з беконом",
+            "description": "Соковитий біфштекс із яловичини, доповнений хрумким беконом і маринованим огірком, у поєднанні зі шматочком сиру «Чедер» та цибулею — усе це заправлено гірчицею та кетчупом у запашній булочці із пшеничного борошна.",
+            "calories": "348ккал Калорійність (17 % Daily Value)",
+            "fats": "17.6г Жири (25 % Daily Value)",
+            "carbs": "27.8г Вуглеводи (11 % Daily Value)",
+            "proteins": "16.4г Білки (33 % Daily Value)",
+            "unsaturated_fats": "7.7г/g (36 % DV)",
+            "sugar": "6.0г/g (6 % DV)",
+            "salt": "1.9г/g (32 % DV)",
+            "portion": "116г/g"
+        }
+    },
+    {
+        "pk": 76,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Чікен Джуніор",
+            "description": "Соковита куряча котлета із хрусткими шматочками огірочка під «Медово-гірчичним» соусом у запашній булочці з пшеничного борошна.",
+            "calories": "330ккал Калорійність (17 % Daily Value)",
+            "fats": "7.5г Жири (12 % Daily Value)",
+            "carbs": "51.9г Вуглеводи (19 % Daily Value)",
+            "proteins": "12.5г Білки (16 % Daily Value)",
+            "unsaturated_fats": "0.9г/g (5 % DV)",
+            "sugar": "7.1г/g (7 % DV)",
+            "salt": "1.5г/g (30 % DV)",
+            "portion": "115г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 77,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Біг Мак®",
+            "description": "Два біфштекси з натуральної яловичини, цибуля, маринований огірок, сир “Чеддер”, свіжий салат, заправлені спеціальним соусом, у булочці з насінням сезаму.",
+            "calories": "526ккал Калорійність (26 % Daily Value)",
+            "fats": "27г Жири (39 % Daily Value)",
+            "carbs": "43г Вуглеводи (17 % Daily Value)",
+            "proteins": "27г Білки (54 % Daily Value)",
+            "unsaturated_fats": "10г/g (50 % DV)",
+            "sugar": "8.9г/g (10 % DV)",
+            "salt": "2.2г/g (37 % DV)",
+            "portion": "212г/g"
+        }
+    },
+    {
+        "pk": 78,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Круасан мигдалевий",
+            "description": "",
+            "calories": "273ккал Калорійність (14 % Daily Value)",
+            "fats": "16г Жири (23 % Daily Value)",
+            "carbs": "26г Вуглеводи (10 % Daily Value)",
+            "proteins": "5г Білки (10 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "3.7125г/g (4 % DV)",
+            "salt": "0.4575г/g (8 % DV)",
+            "portion": "65г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 79,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "ВОДА НЕГАЗОВАНА велика",
+            "description": "",
+            "calories": "0 Калорійність (0 % DV )",
+            "fats": "0 Жири (0 % DV )",
+            "carbs": "0 Вуглеводи (0 % DV )",
+            "proteins": "0 Білки (0 % DV )"
+        }
+    },
+    {
+        "pk": 80,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Роял Делюкс",
+            "description": "Яловича котлетка, огорнута сиром чедер, а також свіжий салат, томат, мариновані огірочки та мікс гірчиці, кетчупа й соуса МакЧікен створюють незабутній смак. Спробуй свіжу новинку — Роял Делюкс.",
+            "calories": "560ккал Калорійність (28 % Daily Value)",
+            "fats": "32.3г Жири (48 % Daily Value)",
+            "carbs": "39.7г Вуглеводи (14 % Daily Value)",
+            "proteins": "28.8г Білки (39 % Daily Value)",
+            "unsaturated_fats": "12.3г/g (55 % DV)",
+            "sugar": "9.8г/g (9 % DV)",
+            "salt": "2.6г/g (54 % DV)",
+            "portion": "220г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 81,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Какао маленьке",
+            "description": "Гаряче молоко в тандемі з какао подарують м’який смак та чудовий настрій на весь день.",
+            "calories": "136ккал Калорійність (7 % Daily Value)",
+            "fats": "2.48г Жири (4 % Daily Value)",
+            "carbs": "22.76г Вуглеводи (9 % Daily Value)",
+            "proteins": "4.99г Білки (10 % Daily Value)",
+            "unsaturated_fats": "0.238г/g (1 % DV) N/Aг/g per100g",
+            "sugar": "18.25г/g (20 % DV) N/Aг/g per100g",
+            "salt": "0.225г/g (4 % DV) N/Aг/g per100g",
+            "portion": "200мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 82,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Апельсиновий сік великий",
+            "description": "Натуральний прохолодний апельсиновий сік без додавання цукру.",
+            "calories": "179ккал Калорійність (6 % Daily Value)",
+            "fats": "0.4г Жири (1 % Daily Value)",
+            "carbs": "26.1г Вуглеводи (10 % Daily Value)",
+            "proteins": "2.0г Білки (4 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "25.8г/g (29 % DV)",
+            "salt": "0г/g (0 % DV)",
+            "portion": "450мл/ml"
+        }
+    },
+    {
+        "pk": 83,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Апельсиновий сік маленький",
+            "description": "Натуральний прохолодний апельсиновий сік без додавання цукру.",
+            "calories": "119ккал Калорійність (6 % Daily Value)",
+            "fats": "0.5г Жири (1 % Daily Value)",
+            "carbs": "26.1г Вуглеводи (10 % Daily Value)",
+            "proteins": "2.0г Білки (4 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "25.8г/g (29 % DV)",
+            "salt": "0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "300мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 84,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Мед",
+            "description": "",
+            "calories": "36ккал Калорійність (2 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "9г Вуглеводи (3 % Daily Value)",
+            "proteins": "0.1г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "0г/g (0 % DV)",
+            "salt": "0.00г/g (0 % DV)",
+            "portion": "12г/g"
+        }
+    },
+    {
+        "pk": 85,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Какао класік",
+            "description": "Гаряче молоко в тандемі з какао подарують м’який смак та чудовий настрій на весь день.",
+            "calories": "210ккал Калорійність (11 % Daily Value)",
+            "fats": "4.46г Жири (6 % Daily Value)",
+            "carbs": "33.65г Вуглеводи (13 % Daily Value)",
+            "proteins": "8.05г Білки (16 % Daily Value)",
+            "unsaturated_fats": "0.333г/g (2 % DV) N/Aг/g per100g",
+            "sugar": "25.55г/g (28 % DV) N/Aг/g per100g",
+            "salt": "0.315г/g (5 % DV) N/Aг/g per100g",
+            "portion": "300мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 86,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Фіш Рол",
+            "description": "Свіжий смак овочів у поєднанні з соковитим філе риби в паніруванні. Страва для справжніх гурманів!",
+            "calories": "436ккал Калорійність (22 % Daily Value)",
+            "fats": "19г Жири (28 % Daily Value)",
+            "carbs": "46г Вуглеводи (18 % Daily Value)",
+            "proteins": "18г Білки (36 % Daily Value)",
+            "unsaturated_fats": "3.34г/g (17 % DV)",
+            "sugar": "3.93г/g (4 % DV)",
+            "salt": "1.4г/g (24 % DV)",
+            "portion": "190г/g"
+        }
+    },
+    {
+        "pk": 87,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава \"Еспресо\"",
+            "description": "Еспресо – дуже міцна кава без молока в маленьких порціях. Еспресо має густу однорідну «живу» пінку світло-горіхового кольору з «тигровими» розводами, яка відновлюється після розмішування напою.",
+            "calories": "0.0ккал Калорійність (0 % Daily Value)",
+            "fats": "0.0г Жири (0 % Daily Value)",
+            "carbs": "0.0г Вуглеводи (0 % Daily Value)",
+            "proteins": "0.0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "salt": "0.0г/g (0 % DV)",
+            "portion": "40мл/ml"
+        }
+    },
+    {
+        "pk": 88,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Лате Амарето",
+            "description": "Класичне запашне Лате з найкращим доповненням — насиченим сиропом Амарето, що настоюють на абрикосових кісточках",
+            "calories": "0 Калорійність (0 % DV )",
+            "fats": "0 Жири (0 % DV )",
+            "carbs": "0 Вуглеводи (0 % DV )",
+            "proteins": "0 Білки (0 % DV )",
+            "unsaturated_fats": "0",
+            "sugar": "0",
+            "salt": "0",
+            "portion": "0"
+        }
+    },
+    {
+        "pk": 89,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Сік «Галіція» яблучний",
+            "description": "Новий натуральний сік прямого віджиму в меню МакДональдз® . В його складі лише стиглі фрукти — ніякого цукру, води чи консервантів.",
+            "calories": "88ккал Калорійність (4 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "22г Вуглеводи (8 % Daily Value)",
+            "proteins": "0.4г Білки (1 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "0г/g (0 % DV) N/Aг/g per100g",
+            "salt": "0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "200мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 90,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "МакПиріг® вишневий",
+            "description": "Хрумкий, свіжоспечений МакПиріг® із вишневим наповнювачем.",
+            "calories": "272ккал Калорійність (14 % Daily Value)",
+            "fats": "15г Жири (21 % Daily Value)",
+            "carbs": "31г Вуглеводи (12 % Daily Value)",
+            "proteins": "2.41г Білки (5 % Daily Value)",
+            "unsaturated_fats": "3.152г/g (16 % DV)",
+            "sugar": "11.36г/g (13 % DV)",
+            "salt": "0.47г/g (8 % DV)",
+            "portion": "80г/g"
+        }
+    },
+    {
+        "pk": 91,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Чікен Рол",
+            "description": "Загорнуті в тонкий лаваш шматочки курятини, свіжі помідори та хрумкий салат- латук – і все це заправлене пікантним гірчично-медовим соусом.",
+            "calories": "340ккал Калорійність (17 % Daily Value)",
+            "fats": "10.1г Жири (15 % Daily Value)",
+            "carbs": "42.2г Вуглеводи (15 % Daily Value)",
+            "proteins": "19.2г Білки (25 % Daily Value)",
+            "unsaturated_fats": "2.0г/g (9 % DV)",
+            "sugar": "3.7г/g (4 % DV)",
+            "salt": "2.2г/g (44 % DV)",
+            "portion": "215г/g"
+        }
+    },
+    {
+        "pk": 92,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Соус кисло-солодкий",
+            "description": "",
+            "calories": "41ккал Калорійність (2 % Daily Value)",
+            "fats": "0.3г Жири (0 % Daily Value)",
+            "carbs": "9.4г Вуглеводи (4 % Daily Value)",
+            "proteins": "0.1г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "3г/g (0 % DV)",
+            "salt": "0.00г/g (0 % DV)",
+            "portion": "25г/g"
+        }
+    },
+    {
+        "pk": 93,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Соус із сиром Дорблю",
+            "description": "Ніжний соус із вишуканим вершковим смаком сиру Дорблю — ідеальне доповнення до хрумких снеків.",
+            "calories": "100ккал Калорійність (5 % Daily Value)",
+            "fats": "10.4г Жири (15 % Daily Value)",
+            "carbs": "2.7г Вуглеводи (1 % Daily Value)",
+            "proteins": "0.4г Білки (0 % Daily Value)",
+            "unsaturated_fats": "1.2г/g (5 % DV)",
+            "sugar": "1.3г/g (1 % DV)",
+            "salt": "0.8г/g (16 % DV)",
+            "portion": "40г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 94,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Крила Чікен Бокс",
+            "description": "Соковиті курячі крильця в хрусткій паніровці та Чікен МакНагетс® із ніжного курячого філе.\n\r\n6 шт. курячих крилець, 9 шт. Чікен МакНагетс",
+            "calories": "938ккал Калорійність (47 % Daily Value)",
+            "fats": "52.1г Жири (75 % Daily Value)",
+            "carbs": "54.8г Вуглеводи (22 % Daily Value)",
+            "proteins": "60.9г Білки (122 % Daily Value)",
+            "unsaturated_fats": "11.2г/g (56 % DV)",
+            "sugar": "25.9г/g (29 % DV)",
+            "salt": "4.3г/g (72 % DV)",
+            "portion": "340г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 95,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Картопля Фрі маленька",
+            "description": "Добірна картопля, засмажена в натуральній олії і трохи підсолена.",
+            "calories": "231ккал Калорійність (12 % Daily Value)",
+            "fats": "11г Жири (16 % Daily Value)",
+            "carbs": "29г Вуглеводи (11 % Daily Value)",
+            "proteins": "2.8г Білки (6 % Daily Value)",
+            "unsaturated_fats": "1г/g (5 % DV)",
+            "sugar": "0.3г/g (0 % DV)",
+            "salt": "0.55г/g (9 % DV)",
+            "portion": "60г/g"
+        }
+    },
+    {
+        "pk": 96,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Соус Карі",
+            "description": "",
+            "calories": "42ккал Калорійність (2 % Daily Value)",
+            "fats": "0.3г Жири (0 % Daily Value)",
+            "carbs": "9.5г Вуглеводи (4 % Daily Value)",
+            "proteins": "0.1г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0.03г/g (0 % DV)",
+            "sugar": "8.8г/g (10 % DV)",
+            "salt": "0.4г/g (7 % DV)",
+            "portion": "28г/g (N/A % DV) N/Aг/g per100g"
+        }
+    },
+    {
+        "pk": 97,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава \"Американо\" класік",
+            "description": "Американо – це еспресо з додаванням гарячої води і тому напій має аналогічні характеристики.",
+            "calories": "0ккал Калорійність (0 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "0.0г Вуглеводи (0 % Daily Value)",
+            "proteins": "0.0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "0.0г/g (0 % DV)",
+            "salt": "0.0г/g (0 % DV)",
+            "portion": "230мл/ml"
+        }
+    },
+    {
+        "pk": 98,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Кава \"Американо з молоком\" маленька",
+            "description": "Американо з молоком – це еспресо з додаванням гарячої води та молока тому напій має м'якший смак, ніж американо.",
+            "calories": "30ккал Калорійність (1 % Daily Value)",
+            "fats": "1.6г Жири (2 % Daily Value)",
+            "carbs": "2.4г Вуглеводи (1 % Daily Value)",
+            "proteins": "1.4г Білки (3 % Daily Value)",
+            "unsaturated_fats": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "sugar": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "salt": "0.0г/g (0 % DV) N/Aг/g per100g",
+            "portion": "175мл/ml (N/A % DV) N/Aмл/ml per100g"
+        }
+    },
+    {
+        "pk": 99,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Соус Сирний",
+            "description": "",
+            "calories": "89ккал Калорійність (5 % Daily Value)",
+            "fats": "9г Жири (13 % Daily Value)",
+            "carbs": "0.9г Вуглеводи (0 % Daily Value)",
+            "proteins": "0.5г Білки (1 % Daily Value)",
+            "unsaturated_fats": "1.1г/g (5 % DV)",
+            "sugar": "0.5г/g (1 % DV)",
+            "salt": "0.4г/g (8 % DV)",
+            "portion": "24г/g"
+        }
+    },
+    {
+        "pk": 100,
+        "model": "mcdonalds_app.product",
+        "fields": {
+            "name": "Фанта® велика",
+            "description": "Всесвітньо відомий освіжаючий напій.",
+            "calories": "158ккал Калорійність (8 % Daily Value)",
+            "fats": "0г Жири (0 % Daily Value)",
+            "carbs": "39.5г Вуглеводи (15 % Daily Value)",
+            "proteins": "0г Білки (0 % Daily Value)",
+            "unsaturated_fats": "0г/g (0 % DV)",
+            "sugar": "39.5г/g (44 % DV)",
+            "salt": "0.18г/g (3 % DV)",
+            "portion": "500мл/ml"
+        }
+    }
+]
